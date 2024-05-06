@@ -1,6 +1,6 @@
 ### Hi, I'm [Audrey](https://www.linkedin.com/in/audrey-keener-675aa721b/) (@keenera)! 👩🏻‍🦰🌻💻🫶🪴🍵
 
-I'm a third-year undergraduate **Computer Science** major and **Mathematics** minor at the University of Pennsylvania.
+I'm a third-year undergraduate **Computer Science** major and **Mathematics** minor at the University of Pennsylvania's School of Engineering.
 
 I'm passionate about...
 - Low-level and systems programming
