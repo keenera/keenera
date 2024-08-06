@@ -5,8 +5,8 @@ I'm a third-year undergraduate **Computer Science** major and **Mathematics** mi
 I'm passionate about...
 - Low-level and systems programming
 - Software engineering and product development
-- Growth engineering and experimentation
 - Algorithms
+- Growth engineering and experimentation
 - Teaching and CS education: I'm a Teaching Assistant for CIS 1200 (Programming Languages & Techniques I) - one of the largest courses at UPenn, taught in OCaml and intermediate Java. I also teach entry-level workshops on Git and Github!
 
 Note: Many projects mentioned on my resume are private repositories due to course policies.
