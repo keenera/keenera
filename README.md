@@ -6,7 +6,7 @@ I'm passionate about...
 - Low-level and systems programming
 - Software engineering and product development
 - Algorithms
-- Teaching and CS education: I'm a Teaching Assistant for CIS 1200 (Programming Languages & Techniques I - one of the largest courses at UPenn, taught in OCaml and intermediate Java) and CIS 4710/5710 (Computer Architecture). I also teach entry-level workshops on Git and GitHub!
+- Teaching and CS education: I'm a Teaching Assistant for CIS 1200 (Programming Languages & Techniques I - one of the largest courses at UPenn, taught in OCaml and intermediate Java) and CIS 5710 (Computer Architecture). I also teach entry-level workshops on Git and GitHub!
 
 Note: Many projects mentioned on my resume are private repositories due to course policies.
 
