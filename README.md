@@ -10,7 +10,7 @@ I'm passionate about...
 
 Note: Many projects mentioned on my resume are private repositories due to course policies.
 
-You can reach me at **[keenera@seas.upenn.edu](mailto:keenera@seas.upenn.edu)** or **[eajkkeener@gmail.com](mailto:eajkkeener@gmail.com)**!
+You can reach me at **[keenera@seas.upenn.edu](mailto:keenera@seas.upenn.edu)** or **[audreyekeener@gmail.com](mailto:audreyekeener@gmail.com)**!
 
 <!--
 **keenera/keenera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
